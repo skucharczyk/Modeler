@@ -1,0 +1,20 @@
+
+// materiały
+materials_count 1
+
+mat_name dfvbdf d b
+rgb 0.6235294 0.7137255 0.8039216
+kdCr 0.8
+kdCg 0.8
+kdCb 0.8
+ksCr 0.1
+ksCg 0.1
+ksCb 0.1
+krCr 0
+krCg 0
+krCb 0
+kaCr 0
+kaCg 0
+kaCb 0
+g 500
+n 0

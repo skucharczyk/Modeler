@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="Modeler.Panels.CameraPanel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" d:DesignHeight="608" d:DesignWidth="270">
+
+    <Grid Height="604" GotFocus="Grid_GotFocus">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="53*" />
+            <ColumnDefinition Width="217*" />
+        </Grid.ColumnDefinitions>
+        <Label Content="Aktywna kamera: " HorizontalAlignment="Left" Margin="29,12,0,564" Name="label5" Grid.ColumnSpan="2" />
+        <Label Content="Rozdzielczość :" Height="28" HorizontalAlignment="Left" Margin="29,83,0,0" Name="resolutionLabel" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Położenie kamery: " Height="28" HorizontalAlignment="Left" Margin="29,185,0,0" Name="Placement" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Punkt patrzenia: " Height="28" HorizontalAlignment="Left" Margin="29,320,0,0" Name="perspective" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Obrót kamery:" Height="28" HorizontalAlignment="Left" Margin="29,456,0,0" Name="CameraRotLabel" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="29,529,0,0" Name="cameraSpread" VerticalAlignment="Top" Content="Kąt rozwarcia kamery: " Grid.ColumnSpan="2" />
+        <Label Content="X:" Height="28" HorizontalAlignment="Left" Margin="53,117,0,0" Name="label4" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Y:" Height="28" HorizontalAlignment="Left" Margin="53,151,0,0" Name="label6" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="35,46,0,0" Name="comboBox1" VerticalAlignment="Top" Width="194" SelectionChanged="comboBox1_SelectionChanged" MaxDropDownHeight="250" LostFocus="comboBox1_LostFocus" Grid.ColumnSpan="2" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="25,117,0,0" Name="textBox11" Text="0" TextAlignment="Right" VerticalAlignment="Top" Width="120" TextChanged="textBox11_TextChanged" LostFocus="textBox11_LostFocus" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="25,150,0,0" Name="textBox12" Text="0" TextAlignment="Right" VerticalAlignment="Top" Width="120" TextChanged="textBox12_TextChanged" LostFocus="textBox12_LostFocus" Grid.Column="1" />
+        <Label Content="X:" Height="28" HorizontalAlignment="Left" Margin="53,219,0,0" Name="label7" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Z:" Height="28" HorizontalAlignment="Left" Margin="53,287,0,0" Name="label8" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Y:" Height="28" HorizontalAlignment="Left" Margin="53,253,0,0" Name="label9" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <TextBox Height="23" Margin="25,219,0,0" Name="textBox4" Text="0" TextAlignment="Right" VerticalAlignment="Top" TextChanged="textBox4_TextChanged" HorizontalAlignment="Left" Width="120" LostFocus="textBox4_LostFocus" Grid.Column="1" />
+        <TextBox HorizontalAlignment="Left" Margin="25,253,0,0" Name="textBox5" Text="0" TextAlignment="Right" Width="120" Height="23" VerticalAlignment="Top" TextChanged="textBox5_TextChanged" LostFocus="textBox5_LostFocus" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="25,287,0,0" Name="textBox1" Text="0" TextAlignment="Right" VerticalAlignment="Top" Width="120" TextChanged="textBox1_TextChanged" LostFocus="textBox1_LostFocus" Grid.Column="1" />
+        <Label Content="X:" Height="28" HorizontalAlignment="Left" Margin="53,354,0,0" Name="label1" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Z:" Height="28" HorizontalAlignment="Left" Margin="53,422,0,0" Name="label2" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Y:" Height="28" HorizontalAlignment="Left" Margin="53,388,0,0" Name="label3" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <TextBox Height="23" Margin="25,354,0,0" Name="textBox2" Text="0" TextAlignment="Right" VerticalAlignment="Top" TextChanged="textBox2_TextChanged" HorizontalAlignment="Left" Width="120" LostFocus="textBox2_LostFocus" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="25,388,0,0" Name="textBox3" Text="0" TextAlignment="Right" VerticalAlignment="Top" Width="120" TextChanged="textBox3_TextChanged" LostFocus="textBox3_LostFocus" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="25,422,0,0" Name="textBox6" Text="0" TextAlignment="Right" VerticalAlignment="Top" Width="120" TextChanged="textBox6_TextChanged" LostFocus="textBox6_LostFocus" Grid.Column="1" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="28,490,0,0" Name="slider1" VerticalAlignment="Top" Width="133" Minimum="-180" Maximum="180" LargeChange="10" ValueChanged="slider1_ValueChanged" Grid.ColumnSpan="2" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="114,490,0,0" Name="textBox7" Text="0" TextAlignment="Right" VerticalAlignment="Top" Width="62" TextChanged="textBox7_TextChanged" LostFocus="textBox7_LostFocus" Grid.Column="1" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="28,563,0,0" Name="slider2" VerticalAlignment="Top" Width="133" Minimum="0" Maximum="180" LargeChange="10" ValueChanged="slider2_ValueChanged" Grid.ColumnSpan="2" />
+        <TextBox Height="23" Margin="114,563,0,0" Name="textBox8" Text="0" TextAlignment="Right" VerticalAlignment="Top" TextChanged="textBox8_TextChanged" LostFocus="textBox8_LostFocus" HorizontalAlignment="Left" Width="62" Grid.Column="1" />        
+    </Grid>
+</UserControl>

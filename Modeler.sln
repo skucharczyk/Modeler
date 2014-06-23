@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modeler", "Modeler\Modeler.csproj", "{BA1DDF8E-895F-4570-A116-D08621E940FC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1ED2C9D7-3499-4BB3-8150-0DF58F6FAAF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileAPI", "FileAPI\FileAPI.vcxproj", "{4DC97C3A-68F9-471A-9D15-B30761E848FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raytracer", "Raytracer\Raytracer.vcxproj", "{33E307D0-79FC-494D-976E-04B59F1733D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Debug|Win32.ActiveCfg = Debug|x86
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Debug|x86.ActiveCfg = Debug|x86
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Debug|x86.Build.0 = Debug|x86
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Release|Win32.ActiveCfg = Release|x86
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Release|x86.ActiveCfg = Release|x86
+		{BA1DDF8E-895F-4570-A116-D08621E940FC}.Release|x86.Build.0 = Release|x86
+		{1ED2C9D7-3499-4BB3-8150-0DF58F6FAAF9}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{1ED2C9D7-3499-4BB3-8150-0DF58F6FAAF9}.Debug|Win32.ActiveCfg = Debug
+		{1ED2C9D7-3499-4BB3-8150-0DF58F6FAAF9}.Debug|x86.ActiveCfg = Debug
+		{1ED2C9D7-3499-4BB3-8150-0DF58F6FAAF9}.Release|Mixed Platforms.ActiveCfg = Release
+		{1ED2C9D7-3499-4BB3-8150-0DF58F6FAAF9}.Release|Win32.ActiveCfg = Release
+		{1ED2C9D7-3499-4BB3-8150-0DF58F6FAAF9}.Release|x86.ActiveCfg = Release
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Debug|Win32.Build.0 = Debug|Win32
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Release|Win32.ActiveCfg = Release|Win32
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Release|Win32.Build.0 = Release|Win32
+		{4DC97C3A-68F9-471A-9D15-B30761E848FE}.Release|x86.ActiveCfg = Release|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Debug|Win32.Build.0 = Debug|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Release|Win32.ActiveCfg = Release|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Release|Win32.Build.0 = Release|Win32
+		{33E307D0-79FC-494D-976E-04B59F1733D1}.Release|x86.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+Tworzenie device'a                          63
+Tworzenie świateł                           0
+SetRenderState                              1
+t1                          0
+t2            0
+Liczenie normalnych                         0
+Znajdowanie części i przyp. wierz.            0
+Tworzenie mesh1                             0
+Tworzenie mesh2                              0
+Modyfikacja viewport'ów                     0
+Renderowanie                               0
+Present                                    3
+Czyszczenie                              0
+Całość                             73
+-----------------------------------------------------------------
+
+
+
+Tworzenie device'a                          0
+Tworzenie świateł                           0
+SetRenderState                              0
+t1                          1
+t2            3
+Liczenie normalnych                         47
+Znajdowanie części i przyp. wierz.            4
+Tworzenie mesh1                             1
+Kopiowanie bufo

@@ -1,0 +1,1121 @@
+43
+;; view2.atr
+
+Attr A000001
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 1 0 255
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000002
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 48 255
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000003
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 95 255
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000004
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 142 255
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000005
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 189 255
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000006
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 237 255
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000007
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 255 225
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000008
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 255 178
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000009
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 255 130
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000010
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 255 83
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000011
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 0 255 36
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000012
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 6 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000013
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 30 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000014
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 54 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000015
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 77 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000016
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 101 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000017
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 125 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000018
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 148 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000019
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 172 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000020
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 195 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000021
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 219 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000022
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 243 255 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000023
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 249 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000024
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 237 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000025
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 225 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading smooth
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000026
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 213 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading smooth
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000027
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 201 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000028
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 190 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading smooth
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000029
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 178 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading smooth
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000030
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 166 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading smooth
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000031
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 154 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading smooth
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000032
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 142 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading smooth
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000033
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 255 255
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000034
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 119 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000035
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 107 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000036
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 95 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000037
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 83 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000038
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 71 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000039
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 60 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000040
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 48 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000041
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 36 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000042
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 24 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+
+Attr A000043
+  kd 1.0000
+  ks 0.0000
+  kts 0.0000
+  ktd 0.0000
+  ka 0.0000
+  kf 0.0000
+  gs 1
+  gm 1
+  SelfLuminance 0.0000
+  SelfLumDirection  Pos
+  Ft 1.0000
+  OneSheet off
+  eta 1.5000
+  highlight light
+  color 255 12 0
+  reflection on
+  indirect on
+  mirror on
+  shadowcast on
+  shadowfall on
+  shading flat
+  HeatType PassivePart
+  HeatLam  1.0000
+enddef
+

@@ -1,0 +1,3 @@
+
+// światła
+lights_count 0
